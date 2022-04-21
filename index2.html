@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Rooster</title>
+</head>
+<body>
+    <h1>Rooster</h1>
+    <form action="">
+        <fieldset>
+            <label for="zoeken">Op welke manier wil je informatie opzoeken?</label>
+            <input type="radio" name="zoeken-op" id="zoeken" value="team"> <label for="team">Team</label>
+            <input type="radio" name="zoeken-op" id="zoeken" value="datum"> <label for="datum">Datum & tijd</label>
+        </fieldset>
+
+        <fieldset>
+            <label for="voor-wie">Van welk team wil je de informatie opvragen?</label>
+            <select name="voor-wie" id="voor-wie">
+                <option value="vraag-team">kies een team</option>
+                <option value="mijn-team">Mijn team</option>
+                <option value="team-1">Team 1</option>
+                <option value="team-2">Team 2</option>
+                <option value="team-3">Team 3</option>
+                <option value="team-4">Team 4</option>
+            </select>
+        </fieldset>
+
+        <fieldset>
+            <label for="wanneer">Van welke datum wil je de informatie opvragen?</label>
+            <input type="date" name="wanneer" id="wanneer">
+        </fieldset>
+        
+
+        <label for=""></label>
+    </form>
+    <section>
+        <p>Dit zijn de resultaten van jouw zoekopdracht.</p>
+        <ul>
+            <li>
+                <h3>Dag: 23 april 2022</h3>
+                <ul>
+                    <p>Opdracht: Trainen</p>
+                    <p>Locatie: Sporthal</p>
+                    <p>Tijd: 09:00 tot en met 12:00</p>
+                </ul>
+            </li>
+        </ul>
+    </section>
+</body>
+</html>
