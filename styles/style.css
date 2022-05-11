@@ -74,3 +74,33 @@ nav ul li a:hover{
 nav ul li a:focus{
     border: 30px solid orange;
 }
+
+/* ----------- agenda ------------*/
+.agenda section:first-of-type ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-around;
+}
+
+.agenda .hidden{
+    display: none;
+}
+
+.agenda section:first-of-type ul li a{
+    padding: 0.5em 2em;
+    font-size: 3em;
+    margin-right: 3em;
+    background-color: white;
+    color: black;
+    border: 0.5em solid black;
+}
+
+.agenda section:first-of-type ul li a:last-of-type{
+    margin-right: 0;
+}
+
+.agenda section:first-of-type ul li a.selected{
+    border: 0.5em solid orange;
+}
+
