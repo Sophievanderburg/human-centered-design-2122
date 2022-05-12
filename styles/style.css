@@ -104,6 +104,9 @@ nav ul li a:focus{
 .agenda h2{
     margin:0.5em 0.2em 0.2em 0.2em;
 }
+.agenda ul{
+    list-style-type:none;
+}
 
 .agenda section:first-of-type ul{
     display: flex;
@@ -143,4 +146,21 @@ nav ul li a:focus{
 
 .agenda section:nth-of-type(2) > button:last-of-type{
     margin-right: 0;
+}
+
+.agenda section:last-of-type{
+    margin-top: 3em;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2em;
+}
+
+.agenda section:last-of-type > div{
+    width: 30vw;
+    border: 10px solid white;
+    overflow: scroll;
+}
+
+.agenda section:last-of-type > div h2{
+    margin-bottom: 0.5em;
 }
