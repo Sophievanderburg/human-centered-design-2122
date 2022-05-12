@@ -73,4 +73,25 @@ Larissa is een super gezellig persoon.
 </ul>
 </details>
 
+
+<details>
+<summary>Test 3</summary>
+	<h3>Insights test 3</h3> 
+	<ul>
+		<li><strong>Blij met concept & navigatie</strong> <br>
+		Larissa gaf aan dat ze het een erg fijn concept vindt. Het schema is hiermee opgebroken in 2 onderdelen die toch een geheel vormen. Ze linken ook goed door aan elkaar waardoor het een logisch geheel is. De manier van navigeren was ook met de screenreader goed te doen. Dus dat was fijn!</li>
+		<li><strong>Navigatie onderaan de pagina</strong> <br>
+		Om Larissa nog makkelijker van de ene pagina naar de andere pagina te laten gaan is het voor haar handig om ook een overzicht-navigatie te hebben van de hele Web App. Zo hoeft ze niet door de hele pagina te shift-tabben om weer bovenaan bij de navigatie te komen.</li>
+	</ul>
+	<h3>Wat zou mijn voglende stap zijn?</h3> 
+	<ul>
+		<li><strong>Meer data toevoegen aan prototype</strong> <br>
+		Ik heb steeds van één voorbeeld data in het protoype gezet. Om goed te testen is de content erg belangrijk. </li>
+		<li><strong>Navigatie uitbreigen</strong> <br>
+		Ookal was Larissa al blij met deze navigatie, wil ik het toch nog beter maken. Ik wil dat je van de agenda gelijk door kan naar informatie over een training. En als ze in de week kijkt en info wil over die dag, dat ze gelijk gaat naar de details als ze erop klikt ipv navigeren naar de dag-agenda en dan weer opzoek moet gaan naar die specifieke dag.</li>
+		<li><strong>Navigatie onderaan de pagina's</strong> <br>
+		Een navigatie onderaan iedere pagina zorgt ervoor dat Larissa altijd overal naartoe kan navigeren. Dit geeft haar veel vrijheid. Ook helpt het haar om sneller te vinden wat ze nodig heeft. </li>
+	</ul>
+</details>
+
 ## Reflectie
