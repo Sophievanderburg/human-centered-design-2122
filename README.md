@@ -22,10 +22,13 @@ Toch zorgen deze dingen ervoor dat Larissa de Web App het fijnste kan gebruiken.
 ### Larissa de feiten
 Larissa is topsportster. Ze heeft 2x olypisch goud gehaald op de paralympische spelen met baanwielrennen op de tandem. Daarnaast is Larissa blind. Ze ziet alleen vormen en kleuren vaag. In haar huis op Texel heeft ze niet veel aanpassingen voor haar beperking. Ze woont daar zelfstandig en alleen met haar hond. 
 ### Larissa de persoon
-Ik heb Larissa 3 keer gezien, dus ik wil niet zeggen dat ik haar als persoon goed ken, maar dit is wat 
-Larissa is een super gezellig persoon. 
+Ik heb Larissa 3 keer gezien, dus ik durf niet te zeggen dat ik haar als persoon goed ken, maar dit is wat ik denk van haar te weten.  <br>
+Als ik Larissa in een paar kernwoorden zou moeten omschrijven zouden dat: Gezellig, eigenwijs, meedenkend, tikkeltje chaotisch en sociaal zijn. <br>
+Tijdens het testen is ze altijd super enthousiast en durft alles te zeggen wat ze denkt. <br>
+Ze heeft een eigen wil, die ze ook graag volgt. Zeker in de sport trekt ze vooral haar eigen plan. Denkt ze dat het anders moet dan in het schema staat? Dan twijfelt ze er niet over om het anders te doen. <br>
+Verder is Larissa meedenkend en behulpzaam. Ze werkt als toegankelijkheidsexpert bij de HvA. Dit laat zien dat ze mensen wil helpen. Ook tijdens het testen viel het mij op dat ze gelijk met iemand probeerde mee te denken als diegene een probleem uitlegde.
 
-
+Vooral de eigenwijsjheid heb ik meegenomen in mijn ontwerp. Ze houdt niet van mensen die haar willen controleren. Daarom heb ik het schema opgedeeld in 3 delen. Hiermee kan ze zelf bepalen of ze het schema wil volgen of toch zelf een training uit gaat kiezen.
 
 
 ## 😛 Add nonsense
