@@ -29,71 +29,48 @@ Larissa is een super gezellig persoon.
 ## Test insights
 <details>
 <summary>Test 1</summary>
-  <h3>Over Larissa</h3>
-  <ul>
-  
-	⁃	27 jaar.
-	⁃	woont op Texel. woont alleen
-↳ niet veel aanpassingen aan haar huis
-	⁃	is niet erg geordend (kan best wat ordening gebruiken, maar gaat het toch niet doen)
-	⁃	houdt niet van controlerende mensen
-	⁃	vervoert zichzelf met OV (met haar hond)
-	⁃	Oranje is haar lievelingskleur
-	⁃	paralympisch topsporter —> 2x goud
-	⁃	toegankelĳkheidsexpert bij de HvA
-
-
-sport
-	⁃	sport 6x per week
-↳ soms 2x per dag
-	⁃	heeft verschillende soorten training
-↳ kracht → favoriete training
-↳ fietsen op de weg
-↳ fietsen thuis (hometrainer)
-↳ fietsen op de baan
-	⁃	krĳgt geen mentale training vanuit de sport
-maar loopt zelf wel bĳ een sportpsycholoog
-
-gebruik laptop
-	⁃	screen reader: JAWS (stem Claire)
-	⁃	saus met vergroting
-	⁃	gebruikt de braille regel niet veel
-	⁃	gebruikt tab etc. om te navigeren
-
-bevindingen over de interface
-	⁃	Larissa ziet wel kleuren
-	⁃	groot contrast is belangrĳk
-	⁃	liever zwart op wit
-	⁃	geen gekke fonts → Moeilĳker te lezen met uitvergroot
-	⁃	tonen of Voice → zoals andere het lezen
-↳ fĳner om snel info op te zoeken
-	⁃	Nederlandse taal
-
-situatie nu
-	⁃	nieuwe coach Maakt geen schema's meer
-↳ Larissa luistert niet, want is het niet met hem eens
-	⁃	krĳgt hulp bĳ jaar schema
-↳ dagelĳks schema wordt per dag bekeken
-	⁃	training peexs → app voor sport voortgang & trainingen
-↳ Ruk voor larissa. want te veel functies
-
-
-Voorkeuren qua schema
-	⁃	Jaarschema (globaal & obv wedstrijden & kampen), week schema (erg in detail: wie wat waar wanneer hoeveel)
-	⁃	Vrijheid van schema is belangrijk: ze voelt aan haar lichaam wat ze nodig heeft
-
-Testen met de computer
-	⁃	Focus state is erg belangrijk (ze kan dan ongeveer zien waar ze op de pagina zit)
-	⁃	Navigeert met tab (NIET MET PIJLTJES!!) → tab-index
-	⁃	Gebruikt eerder ingebouwde zoekfunctie dan CMD + F
-	⁃	Geen overlays gebruiken → of het moet uitgezet kunnen worden
-	⁃	In forms field sets gebruiken zodat het duidelijk is waar de vraag over gaat en wanneer er naar een volgend onderwerp genavigeerd wordt.
-	⁃	Gebruik veel gebruikte patterns, Larissa snapt dan de logica van een website eerder
-	⁃	Skip to content link is super handig → Larissa hoeft niet de hele navigatie door te tabben
-	⁃	Gebruik geen display:none → de screenreader ziet het hele element dan niet en kan het dus ook niet voorlezen
+	<h3>Insights Test 1</h3>
+	<ul>
+		<li><strong>De situatie nu</strong> <br>
+		 Op dit moment wordt Larissa geholpen met haar schema. Dit vind ze vrij vervelend, vooral als ze even snel iets wil opzoeken. Naast het gebruikelijke schema is er nu een app waar ze gebruik van maken. Echter heeft Larissa deze al opgegeven, aangzien ze er weinig mee kan. Er zitten namelijk te veel functies voor haar op, waardoor het super lang duurt voordat ze kan vinden wat ze zoekt.</li>
+		<li><strong>Gebruik van haar laptop</strong> <br>
+		Larissa gebruikt de braille regel niet veel, maar gebruikt de screenreading software JAWS. Om te navigeren gebruikt de tab & shitft tab. Ze gebruikt liever niet de pijltjes. </li>
+		<li><strong>Over de interface</strong> <br>
+		Larissa ziet wel kleuren en vage vormen. Zo heeft ze aangegeven dat ze een zwarte achtergrond met witte vlakken redelijk goed kan zien. Hier kan ik gebruik van maken. Ook heeft ze gezegd dat ik moet letten op marges etc. Die moeten groot genoeg zijn, omdat het anders een groot vlak voor haar is. Daarnaast is het belangrijk om een basic font te gebruiken. Larissa maakt namelijk wel eens gebruik van de vergrotings-tool op haar laptop. Hiermee zet ze de tekst zo groot dat ze het kan lezen.</li>
+	</ul>
+	<h3>Plan voor komende week</h3> 
+	<ul>
+		<li><strong>Opbouw veranderen</strong> <br>
+		Tijdens het de test heeft Larissa aangegeven dat ze vrijheid erg belangrijk vind. Ze voelt aan haar eigen lichaam welke training ze nodig heeft. Ik wil ervoor zorgen dat Larissa meer vrijheid heeft, zonder dat het schema aangepast hoeft te worden.</li>
+		<li><strong>Manier van opzoeken</strong> <br>
+		Tijdens of vlak voor de training wil Larissa snel even wat op kunnen zoeken. Ik ga komende week iets maken waarmee zij dit kan doen.</li>
+		<li><strong>Wat kan ze zien?</strong> <br>
+		Voor de test dacht ik dat Larissa helemaal blind was. Dit blijkt niet zo te zijn. Ik wil komende week testen wat ze precies wel en niet kan zien. </li>
+	</ul>
 
 </details>
 <details>
 <summary>Test 2</summary>
-  
+  <h3>Insights test 2</h3> 
+	<ul>
+		<li><strong>Gebruik van het schema</strong> <br>
+		Larissa zou het handig vinden als ze vanuit de agenda door kan naar een training. Ze  gebruikt het schema namelijk vooral voor de dag zelf of de dag erna. Toch is het ook handig om terug te kunnen in de tijd. Dan kan ze zien wat ze vorige week gedaan heeft en weet ze hoe haar progressie gaat. </li>
+		<li><strong>Opbouw van de agenda</strong> <br>
+		In dit eerste prototype heb ik een agenda per dag. Het zou (net als in een echte agenda) handig zijn om het per dag, week en maand te kunnen bekijken. Daar kunnen dan ook verschillende detail lagen inzitten. </li>
+		<li><strong>Inhoud van het schema</strong> <br>
+		Nu heeft Larissa afspraken als massage & fysio in haar eigen agenda staan. Het lijkt haar fijn om alles wat betreft sport (dus trainingen, massage, fysio, voedingsdeskundige, sportarts, orthopeet, test momenten & wedstrijden)graag op een plek te hebben. Trainingen worden door haar coach ingepland, maar ze zou zelf de overige dingen erin willen zetten.</li>
+		<li><strong>Schema niet op datum, maar op wedstrijd</strong> <br>
+		Tijdens de test heeft Larissa mij verteld dat ze training naar een wedstrijd toe. Er zijn verschillende fases qua training die ongeveer 3 weken duren. De trainingen zijn aangepast op iedere fase. In het wedstrijd overzicht zou ze het fijn vinden om te weten hoelang het nog is tot de volgende wedstrijd. Dit is goed om te bepalen of ze op schema ligt of niet. Daar kunnen dan bepaalde keuzes gebasseerd op worden.</li>
+	</ul>
+	
+	<h3>Plan voor komende week</h3> 
+	<ul>
+		<li><strong>Wedstrijdoverzicht</strong> <br>
+		Ze vond het losse wedstrijd-overzicht super handig! Ik ga er nog aantoevoegen dat Larissa kan zien over hoeveel weken de wedstrijd is. </li>
+		<li><strong>Agenda per dag, week & maand</strong> <br>
+		Deze week wil ik de focus leggen op de agenda: Hoe ze kan navigeren & wat er in moet komen staan. Welke details zijn belangrijk in iedere laag? Ik denk niet dat ik genoeg tijd heb om te bouwen dat ze zelf dingen kan toevoegen, maar daar ga ik wel mee aan de slag mocht het wel zo zijn. </li>
+		
+	</ul>
 </details>
+
+## Reflectie
