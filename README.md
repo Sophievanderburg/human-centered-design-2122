@@ -5,25 +5,32 @@ Voor dit vak kreeg ik een ontwerp-opdracht die gemaakt wordt voor 1 mens. Een ec
 
 ## 💻 Study situation
 ### Larissa & haar computer
-Ze maakt gebruik van een brailleregel, en van een screenreader. Je snapt dat heel veel van de gangbare design patterns niet optimaal werken voor haar omdat ze 100% vanuit een visueel oogpunt ontworpen zijn. Larissa is student aan de HvA. En daarnaast is ze topsporter. Ze heeft laatst een gouden medaille gewonnen op de olympische spelen.
 
 
 
 
 ## 🚫 Ignore conventions
+Als je de website ziet, zul je zien dat het niet een gebruikelijke website is:
+- Alle teksten zijn extra groot
+- De achtergrond is zwart met witte letters (ookal is dark-mode erg populair tegenwoordig wordt wit op zwart nooit gebruikt) 
+- De focus state is heel erg aanwezig. Op deze manier kan Larissa nog ongeveer zien waar op de pagina ze zich bevindt.<br>
 
-
+Toch zorgen deze dingen ervoor dat Larissa de Web App het fijnste kan gebruiken.
 
 
 ## 🚴 Prioritise identity
 ### Larissa de feiten
 Larissa is topsportster. Ze heeft 2x olypisch goud gehaald op de paralympische spelen met baanwielrennen op de tandem. Daarnaast is Larissa blind. Ze ziet alleen vormen en kleuren vaag. In haar huis op Texel heeft ze niet veel aanpassingen voor haar beperking. Ze woont daar zelfstandig en alleen met haar hond. 
-
 ### Larissa de persoon
 Ik heb Larissa 3 keer gezien, dus ik wil niet zeggen dat ik haar als persoon goed ken, maar dit is wat 
 Larissa is een super gezellig persoon. 
 
+
+
+
 ## 😛 Add nonsense
+In de eerste week heb Larissa een leuke tone of voice laten horen. Die gaf haar complimenten of juist bijdehante opmerkingen. Ze moest er wel om lachen en zei dat ze het grappig vond, alleen voor een topsport rooster is het niet heel handig. Ze wil snel specifieke informatie op kunnen zoeken waardoor het eigenlijk vooral afleidt. Daarom heb ik ervoor gekozen om geen gekkigheid verder toe te passen. 
+
 
 
 ## Test insights
@@ -95,3 +102,13 @@ Larissa is een super gezellig persoon.
 </details>
 
 ## Reflectie
+Ik vond het een super coole, maar ook super lastige opdracht. 
+moeilijk:
+- niet weten wat ze kan zien
+- screernreaders zijn erg vervelend....
+- Ignore conventions was moeilijk (alles wat geleerd is mocht even overboord)
+
+goed:
+- Larissa is erg leuk en gezellig
+- 1 persoon is wel fijner, dan voor 1000 man iets ontwerpen
+- testen ging goed
