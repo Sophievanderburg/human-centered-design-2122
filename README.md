@@ -63,14 +63,14 @@ Larissa is een super gezellig persoon.
 		Tijdens de test heeft Larissa mij verteld dat ze training naar een wedstrijd toe. Er zijn verschillende fases qua training die ongeveer 3 weken duren. De trainingen zijn aangepast op iedere fase. In het wedstrijd overzicht zou ze het fijn vinden om te weten hoelang het nog is tot de volgende wedstrijd. Dit is goed om te bepalen of ze op schema ligt of niet. Daar kunnen dan bepaalde keuzes gebasseerd op worden.</li>
 	</ul>
 	
-	<h3>Plan voor komende week</h3> 
+<h3>Plan voor komende week</h3> 
 	<ul>
 		<li><strong>Wedstrijdoverzicht</strong> <br>
 		Ze vond het losse wedstrijd-overzicht super handig! Ik ga er nog aantoevoegen dat Larissa kan zien over hoeveel weken de wedstrijd is. </li>
 		<li><strong>Agenda per dag, week & maand</strong> <br>
-		Deze week wil ik de focus leggen op de agenda: Hoe ze kan navigeren & wat er in moet komen staan. Welke details zijn belangrijk in iedere laag? Ik denk niet dat ik genoeg tijd heb om te bouwen dat ze zelf dingen kan toevoegen, maar daar ga ik wel mee aan de slag mocht het wel zo zijn. </li>
+		Deze week wil ik de focus leggen op de agenda: Welke details zijn belangrijk in iedere laag? Hoe navigeert ze van de ene modus naar de andere? Hoe visueel zichtbaar moet het zijn als de modus verandert? etc. <br>Ik denk niet dat ik genoeg tijd heb om te bouwen dat ze zelf dingen kan toevoegen, maar daar ga ik wel mee aan de slag mocht het wel zo zijn. </li>
 		
-	</ul>
+</ul>
 </details>
 
 ## Reflectie
