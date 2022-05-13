@@ -5,7 +5,7 @@ Voor dit vak kreeg ik een ontwerp-opdracht die gemaakt wordt voor 1 mens. Een ec
 
 ## 💻 Study situation
 ### Larissa & haar computer
-
+Tijdens het testen heb ik geobserveert hoe Larissa haar computer gebruikt. Het belangrijkste is dat Larissa een screenreader gebruikt. Daarnaast navigeert ze vooral met de tab/shift+tab. Soms gaat dit niet even lekker want de technologie van screenreaders loopt best achter. Als het dan fout gaan valt Larissa terug op en uitvergroot-functie op haar laptop. Deze functie laat dingen zo groot zien dat Larissa het met moeite kan lezen. Aan mij wel de taak om ervoor te zorgen dat ze deze functie niet hoeft te gebruiken.
 
 
 
@@ -105,13 +105,8 @@ In de eerste week heb Larissa een leuke tone of voice laten horen. Die gaf haar 
 </details>
 
 ## Reflectie
-Ik vond het een super coole, maar ook super lastige opdracht. 
-moeilijk:
-- niet weten wat ze kan zien
-- screernreaders zijn erg vervelend....
-- Ignore conventions was moeilijk (alles wat geleerd is mocht even overboord)
+Ik vond het een super coole, maar ook super lastige opdracht.
+Sommige dingen waren lastig en sommige dingen gingen erg goed. Een voorbeeld van wat ik lastig vond was dat ik niet goed wist wat Larissa wel en niet goed zien. Tijdens het testen kwam ik er namelijk achter dat ze nog best veel visueel probeerde. Ook merkte is dat screenreaders erg lastig zijn om mee te testen. De screen reader op de ene computer werkt heel anders op de ander. Daarom was het testen op Larissa's computer fijner omdat je dan weet wat haar situatie doet. Verder vond ik ignore conventions een moeilijk onderdeel. Vanuit de opleiding hebben wij juist geleerd om patterns etc. toe te passen. Al deze kennig mocht even overboord, wat aan de ene kant ook wel weer eens leuk was.
+Ik vond het erg fijn dat Larissa een open en sociaal persoon is. Hierdoor ging testen vrij soepel en iedere week een beetje beter. Ik vond het leuk om voor 1 persoon iets te maken. Haar wil was wet dit project en dat was soms ook best fijn. Aan de hand van testen kon ik iedere keer een iteratie maken. Iedere week kon Larissa iets meer en daar was ze tevreden over. Ik vond het een interessant project!
 
-goed:
-- Larissa is erg leuk en gezellig
-- 1 persoon is wel fijner, dan voor 1000 man iets ontwerpen
-- testen ging goed
+
