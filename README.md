@@ -1,4 +1,7 @@
 # Human Centered Design 
+<img width="49%" alt="Schermafbeelding 2022-05-13 om 10 28 25" src="https://user-images.githubusercontent.com/70577898/168243518-ccff1664-25dd-42eb-8bc6-853fea842f52.png">  <img width="49%" alt="Schermafbeelding 2022-05-13 om 10 28 34" src="https://user-images.githubusercontent.com/70577898/168243540-1cb2cbbf-bd81-4530-b254-3837e6ad2a41.png"><img width="49%" alt="Schermafbeelding 2022-05-13 om 10 28 46" src="https://user-images.githubusercontent.com/70577898/168243550-74278d27-c6a0-4cdb-99f6-b8a8fdff8f24.png">
+
+
 
 ## De opdracht
 Voor dit vak kreeg ik een ontwerp-opdracht die gemaakt wordt voor 1 mens. Een echt mens. Door te testen en te itereren wordt het ontwerp verbeterd. Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon: een exclusive design 
