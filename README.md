@@ -32,7 +32,7 @@ Vooral de eigenwijsjheid heb ik meegenomen in mijn ontwerp. Ze houdt niet van me
 
 
 ## 😛 Add nonsense
-In de eerste week heb Larissa een leuke tone of voice laten horen. Die gaf haar complimenten of juist bijdehante opmerkingen. Ze moest er wel om lachen en zei dat ze het grappig vond, alleen voor een topsport rooster is het niet heel handig. Ze wil snel specifieke informatie op kunnen zoeken waardoor het eigenlijk vooral afleidt. Daarom heb ik ervoor gekozen om geen gekkigheid verder toe te passen. 
+In de eerste week heb Larissa een leuke/grappige tone of voice laten horen. Deze tone of voice gaf haar complimenten of juist bijdehante opmerkingen. Ze moest er wel om lachen en zei dat ze het grappig vond. Alleen voor een topsport rooster vond ze het niet heel handig. Ze wil, als ze het rooster gebruikt, snel specifieke informatie op kunnen zoeken waardoor het eigenlijk vooral afleidt. Daarom heb ik ervoor gekozen om geen gekkigheid verder toe te passen. 
 
 
 
